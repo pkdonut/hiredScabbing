@@ -9,6 +9,7 @@ import requests
 import string
 from DataDecleration import EMAIL_DATA
 
+
 # web = webdriver.Chrome()
 # web.get('https://hiredinstaffing.com/submit-resume/')
 fake = Faker()
